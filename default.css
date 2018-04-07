@@ -261,7 +261,7 @@ ul.contact li a.icon-rss:before
 
 #wrapper
 {
-	background: #F0FFF0;
+	background: /*#F0FFF0*/ #008B8B;
 }
 
 /*********************************************************************************/
